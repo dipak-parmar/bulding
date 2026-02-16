@@ -1,0 +1,140 @@
+@font-face {
+    font-family: 'Branding';
+    src: local('Branding Light Italic'), local('BrandingLightItalic'),
+        url('BrandingLightItalic.woff2') format('woff2'),
+        url('BrandingLightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Branding';
+    src: local('Branding Medium Italic'), local('BrandingMediumItalic'),
+        url('BrandingMediumItalic.woff2') format('woff2'),
+        url('BrandingMediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Branding';
+    src: local('Branding Light'), local('BrandingLight'),
+        url('BrandingLight.woff2') format('woff2'),
+        url('BrandingLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Branding';
+    src: local('Branding Medium'), local('BrandingMedium'),
+        url('BrandingMedium.woff2') format('woff2'),
+        url('BrandingMedium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Branding';
+    src: local('Branding Semibold Italic'), local('BrandingSemiboldItalic'),
+        url('BrandingSemiboldItalic.woff2') format('woff2'),
+        url('BrandingSemiboldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Branding';
+    src: local('Branding Semibold'), local('BrandingSemibold'),
+        url('BrandingSemibold.woff2') format('woff2'),
+        url('BrandingSemibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Branding';
+    src: local('Branding Semilight'), local('BrandingSemilight'),
+        url('BrandingSemilight.woff2') format('woff2'),
+        url('BrandingSemilight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Branding';
+    src: local('Branding Semilight Italic'), local('BrandingSemilightItalic'),
+        url('BrandingSemilightItalic.woff2') format('woff2'),
+        url('BrandingSemilightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Branding';
+    src: local('Branding Thin Italic'), local('BrandingThinItalic'),
+        url('BrandingThinItalic.woff2') format('woff2'),
+        url('BrandingThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Branding';
+    src: local('Branding Thin'), local('BrandingThin'),
+        url('BrandingThin.woff2') format('woff2'),
+        url('BrandingThin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Branding';
+    src: local('Branding Black Italic'), local('BrandingBlackItalic'),
+        url('BrandingBlackItalic.woff2') format('woff2'),
+        url('BrandingBlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Branding';
+    src: local('Branding Bold Italic'), local('BrandingBoldItalic'),
+        url('BrandingBoldItalic.woff2') format('woff2'),
+        url('BrandingBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Branding';
+    src: local('Branding Black'), local('BrandingBlack'),
+        url('BrandingBlack.woff2') format('woff2'),
+        url('BrandingBlack.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Branding';
+    src: local('Branding Bold'), local('BrandingBold'),
+        url('BrandingBold.woff2') format('woff2'),
+        url('BrandingBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
